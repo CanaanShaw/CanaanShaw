@@ -5,7 +5,7 @@
 <p>
 I don't have much to say, this site is still under construction lol. 😆 
 </p>
-<p>
+
 Maybe I'll update some contents including...
 
 ```markdown
@@ -16,7 +16,7 @@ Electrodynamics
 ```
 
 No more details.
-</p>
+
 <p>
 <blockquote>
 When something is important enough, you do it even if the odds are not in your favor.
