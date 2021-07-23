@@ -1,11 +1,13 @@
 ## ¡Hola!
 <p>
 <a href="#C1">jump to the end</a>
+</p>
+<p>
 I don't have much to say, this site is still under construction lol. 😆 
+</p>
 <blockquote>
 When something is important enough, you do it even if the odds are not in your favor.
 </blockquote>
-</p>
 ### Sections
 
 Maybe I'll update some contents including...
