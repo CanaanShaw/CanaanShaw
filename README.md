@@ -5,7 +5,7 @@ I don't have much to say, this site is still under construction lol. 😆
 <q>
 When something is important enough, you do it even if the odds are not in your favor.
 </q>
-  </p>
+</p>
 ### Sections
 
 Maybe I'll update some contents including...
