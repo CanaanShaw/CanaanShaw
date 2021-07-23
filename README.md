@@ -1,6 +1,6 @@
 ## Welcome to my site!
 <p>
-<a herf="#C1">jump to the end</a>
+<a href="#C1">jump to the end</a>
 </p>
 
 <p>
