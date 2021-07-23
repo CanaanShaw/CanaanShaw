@@ -2,6 +2,6 @@ title: ¡Hola!
 description: <body> this is my personal site!<br>
   <h3>indexes</h3>
   <a href="#Optics">Optics</a><br>
-  <a href="#TM">TheoraticalMechanism</a><br>
+  <a href="#TM">Theoratical Mechanism</a><br>
   <a href="#ED">Electrodynamics</a></body>
 theme: jekyll-theme-minimal
