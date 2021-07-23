@@ -1,6 +1,4 @@
 title: ¡Hola!
 description: this is my personal site
-<h3>
-indexes
-</h3>
+description: <h3>indexes</h3>
 theme: jekyll-theme-minimal
