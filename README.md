@@ -2,9 +2,9 @@
 <p>
 <a href="#C1">jump to the end</a>
 I don't have much to say, this site is still under construction lol. 😆 
-<cite>
+<blockquote>
 When something is important enough, you do it even if the odds are not in your favor.
-</cite>
+</blockquote>
 </p>
 ### Sections
 
