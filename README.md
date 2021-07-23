@@ -1,5 +1,8 @@
 ## Welcome to my site!
-\square^2 A^{\nu}=\nu_0 J^{\nu}
+<h1>title1</h1>
+<hr>
+<h2>title2</h2>
+<hr>
 I don't have much to say, this site is still under construction lol. 😆 
 
 ### Sections
