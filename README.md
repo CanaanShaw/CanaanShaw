@@ -1,98 +1,35 @@
 ## Welcome to my site!
-<p>
-<a href="#C1">jump to the end</a>
-</p>
+
 I don't have much to say, this site is still under construction lol. 😆 
 
-### Sections
+### Markdown
 
-Maybe I'll update some contents including...
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Theoratical Mechanism
-Optics
-Electrodynamics 
-...
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 ```
 
-No more details.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CanaanShaw/CanaanShaw/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
-<p>
-If you have any problem you can contact with... yourself.
-</p>
 
-<h2><a id="C1"></a></h2>
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
