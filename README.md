@@ -1,7 +1,5 @@
 ## Welcome to my site!
-<h1>title1</h1>
-<hr>
-<h2>title2</h2>
+<p><a herf="#End">jump to the end</a></p>
 
 I don't have much to say, this site is still under construction lol. 😆 
 
@@ -22,3 +20,4 @@ No more details.
 ### Support or Contact
 
 If you have any problem you can contact with... yourself.
+<a id="End"></a>
