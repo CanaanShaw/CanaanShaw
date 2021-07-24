@@ -1,11 +1,6 @@
-## ¡Hola!
-<p>
-<a href="#C1">jump to the end</a>
-</p>
-<p>
-I don't have much to say, this site is still under construction lol. 😆 
-</p>
-
+## Introduction
+I built this site mostly for keeping some notes from my major.
+And for someone who's important to me.
 Maybe I'll update some contents including...
 
 ```markdown
@@ -109,7 +104,4 @@ If you have any problem you can contact with... yourself.
 </p>
 <p>
 If you have any problem you can contact with... yourself.
-</p>
-<p>
-<h2><a id="C1">this is the end</a></h2>
 </p>
