@@ -1,6 +1,6 @@
 ## Introduction
-I built this site mostly for keeping some notes from my major.
-And for someone who's important to me.
+I built this site mostly for keeping some notes from my major.<br>
+And for someone who's important to me.<br>
 Maybe I'll update some contents including...
 
 ```markdown
