@@ -1,6 +1,6 @@
 ## Introduction
 I built this site mostly for keeping some notes from my major.<br>
-And for someone who's important to me.<br>
+And for someone important.<br>
 Maybe I'll update some contents including...
 
 ```markdown
@@ -10,7 +10,7 @@ Electrodynamics
 ...
 ```
 
-No more details.
+No more details, just wait and see.
 
 <p>
 <blockquote>
@@ -19,13 +19,13 @@ When something is important enough, you do it even if the odds are not in your f
 </p>
 ### Sections
 <p>
-<h2><a id="Optics">Optics</a></h2>
+####<a id="Optics">Optics</a>####
 </p>
 <p>
-<h2><a id="TM">Theoratical Mechanism</a></h2>
+####<a id="TM">Theoratical Mechanism</a>####
 </p>
 <p>
-<h2><a id="ED">Electrodynamics</a></h2>
+####<a id="ED">Electrodynamics</a>####
 </p>
 
 
