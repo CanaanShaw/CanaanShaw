@@ -17,16 +17,11 @@ No more details, just wait and see.
 When something is important enough, you do it even if the odds are not in your favor.
 </blockquote>
 </p>
-## Sections
-<p>
+### Sections
 ###<a id="Optics">Optics</a>
-</p>
-<p>
 ###<a id="TM">Theoratical Mechanism</a>
-</p>
-<p>
 ###<a id="ED">Electrodynamics</a>
-</p>
+
 
 
 ### Support or Contact
