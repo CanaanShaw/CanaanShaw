@@ -1,16 +1,8 @@
 ## Introduction
-I built this site mostly for keeping some notes from my major.<br>
-And for someone important.<br>
-Maybe I'll update some contents including...
-
-```markdown
-Theoratical Mechanism
-Optics
-Electrodynamics 
-...
-```
-
-No more details, just wait and see.
+<p>My site is under unstruction🚀</p>
+<p>I may update some notes around Machine Learning or so <del>If I got time, most probably won&#39;t.</del></p>
+<p>So since you&#39;ve found my site, how about explore it a little bit more🤩</p>
+<p>&nbsp;</p>
 
 <p>
 <blockquote>
