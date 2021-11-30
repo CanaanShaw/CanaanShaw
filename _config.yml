@@ -5,3 +5,4 @@ description: <body> This is my personal site!<br>
   <a href="#TM">Theoratical Mechanism</a><br>
   <a href="#ED">Electrodynamics</a></body>
 theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
