@@ -5,6 +5,7 @@ title: Canaan Shaw's Notes
     <h1>{{ page.title }}</h1>
     <ul class="posts">
 
+      <a href='/notes/Neural%20Network%20Notes.pdf'>Neural Network Notes</a>
       {% for note in site.notes %}
         <li><span>{{ note.date | date_to_string }}</span> » <a href="{{ note.url }}" title="{{ note.title }}">{{ note.title }}</a></li>
       {% endfor %}
