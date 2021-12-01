@@ -5,10 +5,11 @@ title: Canaan Shaw's Notes
     <h1>{{ page.title }}</h1>
     <ul class="posts">
 
-    <p>Neural Network Notes](/notes/Neural_Network_Notes.pdf)</p>
+    <p><a href='/notes/Neural_Network_Notes.pdf'>Neural Network Notes</a></p>
     <p><a href='/notes/ED_Notes_Chapter10.pdf'>Electrodynamics Notes 10</a></p>
     <p><a href='/notes/ED_Notes_Chapter11.pdf'>Electrodynamics Notes 11</a></p>
     <p>&nbsp;</p>
+
 
       {% for note in site.notes %}
         <li><span>{{ note.date | date_to_string }}</span> » <a href="{{ note.url }}" title="{{ note.title }}">{{ note.title }}</a></li>
