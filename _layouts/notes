@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>{{ page.title }}</title>
+            <!-- link to main stylesheet -->
+            <link rel="stylesheet" type="text/css" href="/css/main.css">
+        </head>
+        
+        <style>
+        .font-adjust{ font-size:14px}
+        </style>
+        
+        <body>
+            <nav>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/blog">Blog</a></li>
+                    <li><a href="/notes">Notes</a></li>
+                </ul>
+            </nav>
+            <div class="container-fluid">
+                <div class="font-adjust">
+
+                {{ content }}
+                </div>
+            </div><!-- /.container -->
+            <footer>
+                <ul>
+                    <li><a href="canaanshaw@zju.edu.cn">email</a></li>
+                    <li><a href="https://github.com/CanaanShaw">github.com/CanaanShaw</a></li>
+                </ul>
+            </footer>
+        </body>
+    </html>
