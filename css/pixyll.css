@@ -489,7 +489,7 @@ a {
 
 .outline-title {
 	line-height: inherit;
-	margin-top: 10px;
+	margin-top: 0.1rem;
 }
 
 .outline-expander {
