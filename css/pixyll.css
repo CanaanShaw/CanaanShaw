@@ -331,7 +331,7 @@ h6,
 @media screen and (min-width: 64em) {
 	.h1,
 	h1 {
-		font-size: 3.3rem;
+		font-size: 3.1rem;
 	}
 	.h2,
 	h2 {
@@ -489,7 +489,7 @@ a {
 
 .outline-title {
 	line-height: inherit;
-	margin-top: 0.1em;
+	margin-top: 10px;
 }
 
 .outline-expander {
